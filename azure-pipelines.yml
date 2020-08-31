@@ -11,7 +11,7 @@ pool:
 
 steps:
 - script: echo Hello, world!
-  displayName: 'Run a one-line script google-1 Google-2'
+  displayName: 'Run a one-line script google-1 Google-2 Google-3'
 
 - script: |
     echo Add other tasks to build, test, and deploy your project.
